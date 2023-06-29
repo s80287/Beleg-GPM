@@ -1,2 +1,2 @@
 # Beleg-GPM
-Beleg für Modul GPM
+Beleg und Unterlagen für Modul GPM
